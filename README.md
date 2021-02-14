@@ -21,3 +21,5 @@
 - [ ] Arms Race: weaponry
 
 - [ ] Protector Program: Big Daddy mobs, weapons, suits
+
+- [ ] Deep Atlantic: New Biome that generates an ocean which has a sea floor just above bedrock, adding bioluminescent coral and other flora, hydrothermal vents, and a handful of entities such as Adam Slugs.
